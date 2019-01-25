@@ -2,12 +2,12 @@ import firebase from "firebase";
 
 const initFirebaseApp = function() {
   const options = {
-		apiKey: "AIzaSyCaimB_OuxFrvujbUHyBpp3sF0YU0cL2Ls",
-    authDomain: "rideaparty.firebaseapp.com",
-    databaseURL: "https://rideaparty.firebaseio.com",
+		apiKey: "",
+    authDomain: "",
+    databaseURL: "",
     projectId: "rideaparty",
-    storageBucket: "rideaparty.appspot.com",
-    messagingSenderId: "663220767702"
+    storageBucket: "",
+    messagingSenderId: ""
     // apiKey: process.env.FIREBASE_API_KEY,
     // authDomain: process.env.FIREBASE_AUTH_DOMAIN,
     // databaseURL: process.env.FIREBASE_DATABASE_URL,
